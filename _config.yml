@@ -1,0 +1,28 @@
+name: SambaLolo
+favicon: null
+layout_spectrum: 0.8964250129647553
+typography_spectrum: 0.4969647510442883
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.26400339393876493
+  lightness: 0.0700417838525027
+  saturation: 0.8750949655659497
+  rhythmicContrast: 0.5674706327263266
+purpose: []
